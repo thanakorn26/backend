@@ -1,0 +1,88 @@
+[14: 11: 59] [ip]: ::1 - [method]: GET [url]: /main/api/v1/test HTTP/1.1 [status]: 200 [response-time]: 15.267 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 15: 31] [ip]: ::1 - [method]: GET [url]: /main/api/v1/test HTTP/1.1 [status]: 200 [response-time]: 4.004 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 18: 21] [ip]: ::1 - [method]: GET [url]: /main/api/v1/information HTTP/1.1 [status]: 200 [response-time]: 3.291 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 19: 09] [ip]: ::1 - [method]: GET [url]: /main/api/v1/user_information HTTP/1.1 [status]: 404 [response-time]: 1.650 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 19: 35] [ip]: ::1 - [method]: GET [url]: /main/api/v1/user_information HTTP/1.1 [status]: 200 [response-time]: 3.877 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 19: 35] [ip]: ::1 - [method]: GET [url]: /main/api/v1/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1.414 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 19: 35] [ip]: ::1 - [method]: GET [url]: /main/api/v1/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1.573 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[14: 21: 09] [ip]: ::1 - [method]: GET [url]: /main/api/v1/test/temp_humid_201 HTTP/1.1 [status]: 200 [response-time]: 3.772 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36
+[15: 30: 36] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.933 ms [client]: okhttp/3.12.1
+[15: 53: 21] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 4.624 ms [client]: PostmanRuntime/7.26.5
+[15: 53: 21] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 3.210 ms [client]: PostmanRuntime/7.26.5
+[15: 53: 21] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 1.438 ms [client]: PostmanRuntime/7.26.5
+[15: 53: 21] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 200 [response-time]: 96.131 ms [client]: okhttp/3.12.1
+[16: 12: 33] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: - [response-time]: - ms [client]: okhttp/3.12.1
+[16: 15: 27] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 4.280 ms [client]: PostmanRuntime/7.26.5
+[16: 19: 11] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 200 [response-time]: 86.457 ms [client]: okhttp/3.12.1
+[16: 19: 11] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 1.474 ms [client]: okhttp/3.12.1
+[16: 21: 22] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 200 [response-time]: 100.060 ms [client]: okhttp/3.12.1
+[16: 21: 22] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 1.345 ms [client]: okhttp/3.12.1
+[16: 21: 22] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.210 ms [client]: okhttp/3.12.1
+[16: 21: 22] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.220 ms [client]: okhttp/3.12.1
+[16: 23: 34] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.904 ms [client]: okhttp/3.12.1
+[16: 24: 59] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.887 ms [client]: okhttp/3.12.1
+[16: 25: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 1.038 ms [client]: okhttp/3.12.1
+[16: 25: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /user/user_login HTTP/1.1 [status]: 404 [response-time]: 0.263 ms [client]: okhttp/3.12.1
+[16: 27: 16] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 404 [response-time]: 1.402 ms [client]: okhttp/3.12.1
+[16: 28: 45] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 404 [response-time]: 1.473 ms [client]: okhttp/3.12.1
+[16: 29: 58] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 404 [response-time]: 1.375 ms [client]: okhttp/3.12.1
+[16: 40: 58] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 404 [response-time]: 1.705 ms [client]: okhttp/3.12.1
+[16: 42: 56] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.716 ms [client]: okhttp/3.12.1
+[16: 42: 56] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 78.225 ms [client]: okhttp/3.12.1
+[16: 42: 56] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 79.908 ms [client]: okhttp/3.12.1
+[16: 43: 52] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 82.677 ms [client]: okhttp/3.12.1
+[16: 43: 52] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 77.187 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 85.153 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 2.835 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 79.101 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 0.766 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 0.681 ms [client]: okhttp/3.12.1
+[16: 44: 32] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 500 [response-time]: 0.684 ms [client]: okhttp/3.12.1
+[16: 46: 42] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 88.285 ms [client]: okhttp/3.12.1
+[16: 47: 46] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 86.128 ms [client]: okhttp/3.12.1
+[16: 47: 46] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: - [response-time]: - ms [client]: PostmanRuntime/7.26.5
+[16: 48: 26] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.807 ms [client]: okhttp/3.12.1
+[16: 48: 26] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: - [response-time]: - ms [client]: PostmanRuntime/7.26.5
+[16: 49: 25] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 500 [response-time]: 2.843 ms [client]: okhttp/3.12.1
+[16: 51: 52] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 82.536 ms [client]: okhttp/3.12.1
+[16: 53: 22] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.971 ms [client]: okhttp/3.12.1
+[16: 54: 04] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 82.923 ms [client]: okhttp/3.12.1
+[16: 54: 39] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.884 ms [client]: okhttp/3.12.1
+[16: 56: 10] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 85.038 ms [client]: okhttp/3.12.1
+[16: 58: 50] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 500 [response-time]: 2.162 ms [client]: okhttp/3.12.1
+[16: 59: 05] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.643 ms [client]: okhttp/3.12.1
+[17: 00: 14] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.781 ms [client]: okhttp/3.12.1
+[17: 05: 30] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 83.188 ms [client]: okhttp/3.12.1
+[17: 11: 57] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 90.399 ms [client]: okhttp/3.12.1
+[17: 11: 57] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 78.832 ms [client]: okhttp/3.12.1
+[17: 11: 57] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 79.330 ms [client]: okhttp/3.12.1
+[17: 14: 01] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 146.454 ms [client]: okhttp/3.12.1
+[17: 17: 34] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 85.503 ms [client]: okhttp/3.12.1
+[17: 17: 34] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 81.339 ms [client]: okhttp/3.12.1
+[17: 19: 55] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 147.750 ms [client]: okhttp/3.12.1
+[17: 20: 42] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 144.291 ms [client]: okhttp/3.12.1
+[17: 21: 12] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 144.005 ms [client]: okhttp/3.12.1
+[17: 21: 12] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 3.875 ms [client]: okhttp/3.12.1
+[17: 21: 12] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 2.812 ms [client]: okhttp/3.12.1
+[17: 23: 26] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 4.418 ms [client]: okhttp/3.12.1
+[17: 23: 26] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 3.658 ms [client]: okhttp/3.12.1
+[17: 23: 26] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_register HTTP/1.1 [status]: 200 [response-time]: 90.802 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 145.835 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 138.018 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 139.468 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 136.290 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 123.353 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 404 [response-time]: 2.041 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/api/v1/device_info HTTP/1.1 [status]: 304 [response-time]: 3.809 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 140.150 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: / HTTP/1.1 [status]: 404 [response-time]: 0.637 ms [client]: okhttp/3.12.1
+[17: 33: 06] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 143.970 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 404 [response-time]: 2.093 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/api/v1/device_info HTTP/1.1 [status]: 304 [response-time]: 4.894 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 141.668 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 404 [response-time]: 0.646 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/api/v1/device_info HTTP/1.1 [status]: 304 [response-time]: 2.415 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: POST [url]: /main/api/v1/user_login HTTP/1.1 [status]: 200 [response-time]: 141.164 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: / HTTP/1.1 [status]: 404 [response-time]: 0.583 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 404 [response-time]: 0.637 ms [client]: okhttp/3.12.1
+[17: 35: 38] [ip]: ::ffff:192.168.0.56 - [method]: GET [url]: /main/api/v1/device_info HTTP/1.1 [status]: 304 [response-time]: 2.356 ms [client]: okhttp/3.12.1

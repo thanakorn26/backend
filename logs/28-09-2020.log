@@ -1,0 +1,4 @@
+[16: 07: 08] [ip]: ::ffff:192.168.1.77 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.544 ms [client]: okhttp/3.12.1
+[16: 57: 34] [ip]: ::ffff:192.168.1.96 - [method]: GET [url]: /image/camera/snapshot_15_28_54.png HTTP/1.1 [status]: 404 [response-time]: 2.923 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+[17: 52: 42] [ip]: ::ffff:192.168.1.77 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.652 ms [client]: okhttp/3.12.1
+[17: 59: 00] [ip]: ::ffff:192.168.1.77 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.656 ms [client]: okhttp/3.12.1

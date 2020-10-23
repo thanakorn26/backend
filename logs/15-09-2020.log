@@ -1,0 +1,53 @@
+[00: 23: 17] [ip]: ::1 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.141 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[00: 59: 04] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 7.117 ms [client]: okhttp/3.12.1
+[01: 02: 22] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 5.998 ms [client]: okhttp/3.12.1
+[01: 03: 11] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.840 ms [client]: okhttp/3.12.1
+[03: 31: 41] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.843 ms [client]: okhttp/3.12.1
+[03: 34: 20] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.637 ms [client]: okhttp/3.12.1
+[03: 34: 20] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.952 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 7.032 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.846 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.872 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 7.775 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::1 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.694 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 7.602 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.113 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.683 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 8.475 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.209 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.022 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 1.531 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.604 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.278 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.648 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 1.341 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.050 ms [client]: okhttp/3.12.1
+[03: 36: 38] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 4.663 ms [client]: okhttp/3.12.1
+[06: 54: 39] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 10.760 ms [client]: ESP8266HTTPClient
+[06: 54: 39] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.836 ms [client]: ESP8266HTTPClient
+[07: 07: 23] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 9.772 ms [client]: ESP8266HTTPClient
+[07: 09: 39] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 10.886 ms [client]: ESP8266HTTPClient
+[07: 10: 10] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 10.881 ms [client]: ESP8266HTTPClient
+[09: 28: 17] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 10.303 ms [client]: ESP8266HTTPClient
+[09: 28: 17] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 7.353 ms [client]: ESP8266HTTPClient
+[10: 55: 56] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 7.546 ms [client]: ESP8266HTTPClient
+[10: 55: 56] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 5.260 ms [client]: ESP8266HTTPClient
+[10: 55: 56] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 5.550 ms [client]: ESP8266HTTPClient
+[11: 00: 05] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 14.778 ms [client]: ESP8266HTTPClient
+[11: 00: 05] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 8.010 ms [client]: ESP8266HTTPClient
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 4.231 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 3.446 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 1.885 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.478 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.995 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 1.478 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 2.486 ms [client]: okhttp/3.12.1
+[11: 00: 05] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 12.269 ms [client]: ESP8266HTTPClient
+[11: 28: 31] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 6.364 ms [client]: okhttp/3.12.1
+[11: 28: 31] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 3.187 ms [client]: okhttp/3.12.1
+[11: 28: 31] [ip]: ::1 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 5.195 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[11: 28: 31] [ip]: ::1 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1.367 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[11: 28: 31] [ip]: ::1 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 9.827 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[11: 28: 31] [ip]: ::ffff:172.20.10.6 - [method]: GET [url]: /main/time_to_app/solenoid_valve_201 HTTP/1.1 [status]: 304 [response-time]: 7.128 ms [client]: okhttp/3.12.1
+[11: 28: 31] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 6.594 ms [client]: ESP8266HTTPClient
+[11: 28: 31] [ip]: ::ffff:172.20.10.5 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 13.156 ms [client]: ESP8266HTTPClient

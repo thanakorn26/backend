@@ -1,0 +1,63 @@
+[04: 14: 50] [ip]: ::1 - [method]: GET [url]: /main/devices HTTP/1.1 [status]: 404 [response-time]: 3.640 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+[04: 37: 23] [ip]: ::1 - [method]: POST [url]: /main/register HTTP/1.1 [status]: 500 [response-time]: 1.596 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+[04: 39: 13] [ip]: ::1 - [method]: POST [url]: /main/register HTTP/1.1 [status]: 200 [response-time]: 5.278 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+[05: 19: 50] [ip]: ::1 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 8.241 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+[09: 16: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1680.654 ms [client]: ESP8266HTTPClient
+[09: 16: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 3.010 ms [client]: ESP8266HTTPClient
+[09: 16: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 2.559 ms [client]: ESP8266HTTPClient
+[09: 48: 17] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: - [response-time]: - ms [client]: ESP8266HTTPClient
+[10: 10: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 40.213 ms [client]: ESP8266HTTPClient
+[10: 10: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 5.585 ms [client]: ESP8266HTTPClient
+[10: 10: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1.490 ms [client]: ESP8266HTTPClient
+[10: 10: 01] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 3.957 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 26.450 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 8.438 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.040 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.034 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.145 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 3.624 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.037 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 2.958 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.499 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 1.812 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 5.312 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 4.025 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.774 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.755 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 4.848 ms [client]: ESP8266HTTPClient
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 1.630 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/register? HTTP/1.1 [status]: 200 [response-time]: 20.620 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/register HTTP/1.1 [status]: 200 [response-time]: 6.804 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.577 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.519 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.619 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.926 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/device HTTP/1.1 [status]: 404 [response-time]: 0.538 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/register HTTP/1.1 [status]: 200 [response-time]: 3.991 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::1 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 3.529 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+[13: 27: 13] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 3.667 ms [client]: PostmanRuntime/7.26.5
+[13: 27: 13] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 3.625 ms [client]: ESP8266HTTPClient
+[17: 22: 26] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 12.054 ms [client]: ESP8266HTTPClient
+[17: 35: 29] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 10.203 ms [client]: ESP8266HTTPClient
+[17: 41: 18] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 9.749 ms [client]: ESP8266HTTPClient
+[17: 43: 20] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 9.554 ms [client]: ESP8266HTTPClient
+[17: 44: 04] [ip]: ::ffff:192.168.1.200 - [method]: GET [url]: /main/time/solenoid_valve_201 HTTP/1.1 [status]: 200 [response-time]: 9.624 ms [client]: ESP8266HTTPClient
+[18: 17: 26] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 7.741 ms [client]: PostmanRuntime/7.26.5
+[18: 23: 25] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 5.810 ms [client]: okhttp/3.12.1
+[18: 31: 03] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 5.513 ms [client]: okhttp/3.12.1
+[18: 31: 34] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 18.417 ms [client]: okhttp/3.12.1
+[18: 32: 12] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.160 ms [client]: okhttp/3.12.1
+[18: 35: 14] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: - [response-time]: - ms [client]: okhttp/3.12.1
+[18: 39: 05] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.109 ms [client]: okhttp/3.12.1
+[18: 42: 35] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 7.229 ms [client]: okhttp/3.12.1
+[18: 42: 35] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 5.930 ms [client]: okhttp/3.12.1
+[18: 42: 35] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.628 ms [client]: okhttp/3.12.1
+[18: 49: 04] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.099 ms [client]: okhttp/3.12.1
+[18: 49: 04] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 5.433 ms [client]: okhttp/3.12.1
+[18: 49: 27] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.195 ms [client]: okhttp/3.12.1
+[18: 50: 22] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 7.300 ms [client]: okhttp/3.12.1
+[18: 55: 32] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.370 ms [client]: okhttp/3.12.1
+[18: 57: 45] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 5.685 ms [client]: okhttp/3.12.1
+[19: 02: 44] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 6.728 ms [client]: okhttp/3.12.1
+[19: 02: 44] [ip]: ::ffff:192.168.1.77 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: 200 [response-time]: 3.852 ms [client]: okhttp/3.12.1
+[19: 32: 17] [ip]: ::1 - [method]: POST [url]: /main/devices HTTP/1.1 [status]: - [response-time]: - ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
